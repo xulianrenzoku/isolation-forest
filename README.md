@@ -1,4 +1,4 @@
-# isolation-forest
+# Anomaly Detection Using Isolation Forest
 
 ## Project Objective
 The objective of this project was to implement the Isolation Forest algorithm as defined in [this paper](https://github.com/xulianrenzoku/isolation-forest/blob/master/IsolationForestPaper.pdf) from scratch.
